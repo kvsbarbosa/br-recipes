@@ -1,0 +1,27 @@
+* {
+    background-color: rgb(240, 230, 140);
+}
+
+h1 {
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 50;
+}
+
+p {
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: medium;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    text-align: center;
+}
+
+ul {
+    text-align: justify;
+}
